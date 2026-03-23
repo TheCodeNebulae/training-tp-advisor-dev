@@ -12,4 +12,4 @@ cdk.out
 *.code-workspace
 
 # MacOS files
-.DS_Store
+.DS_Storedist/
